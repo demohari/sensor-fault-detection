@@ -1,0 +1,8 @@
+pymongo==4.2.0
+-e .
+
+
+#dev
+black
+jupyter-black
+ipykernel
